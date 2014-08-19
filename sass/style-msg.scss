@@ -1,3 +1,9 @@
+$red: #ffe5e5;
+
+
+
+
+
 body{
 	padding: 30px;
 	font-family: sans-serif;
@@ -16,8 +22,8 @@ body{
 
 .important{
 	@extend .box;
-	background-color: #ffe5e5; 
-	border-color: red;
+	background-color: $red; 
+	border-color: darken($red, 25%);
 }
 
 

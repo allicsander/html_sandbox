@@ -1,0 +1,26 @@
+/* line 1, ../sass/style.scss */
+body {
+  padding: 55px;
+}
+
+/* line 5, ../sass/style.scss */
+a {
+  color: red;
+}
+/* line 7, ../sass/style.scss */
+a:hover {
+  color: blue;
+}
+
+/* line 12, ../sass/style.scss */
+h3 {
+  font-size: 13px;
+}
+/* line 15, ../sass/style.scss */
+h3 a {
+  text-decoration: none;
+}
+/* line 19, ../sass/style.scss */
+#two h3 a {
+  color: orange;
+}

@@ -1,0 +1,30 @@
+/* line 7, ../sass/style-msg.scss */
+body {
+  padding: 30px;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+/* line 13, ../sass/style-msg.scss */
+.box, .important, .success {
+  margin: 0 auto 25px;
+  border: 1px solid;
+  padding: 15px;
+  border-radius: 6px;
+}
+/* line 18, ../sass/style-msg.scss */
+.box em, .important em, .success em {
+  text-decoration: underline;
+}
+
+/* line 23, ../sass/style-msg.scss */
+.important, .success {
+  background-color: #ffe5e5;
+  border-color: #ff6565;
+}
+
+/* line 30, ../sass/style-msg.scss */
+.success {
+  background-color: #e6ffe6;
+  border-color: green;
+}

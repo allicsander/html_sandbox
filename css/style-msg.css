@@ -13,7 +13,7 @@ body {
 
 .important, .success {
   background-color: #ffe5e5;
-  border-color: red; }
+  border-color: #ff6565; }
 
 .success {
   background-color: #e6ffe6;
